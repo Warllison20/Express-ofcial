@@ -10,11 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/Warllison20/Express-ofcial.git"
   },
-  "keywords": ["node.js", "express" ],
+  "keywords": [
+    "node.js",
+    "express"
+  ],
   "author": "Warllison",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Warllison20/Express-ofcial/issues"
   },
-  "homepage": "https://github.com/Warllison20/Express-ofcial#readme"
+  "homepage": "https://github.com/Warllison20/Express-ofcial#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
